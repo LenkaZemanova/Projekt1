@@ -2,3 +2,4 @@ hgjadkhgůa
 gadůjga
 tohle je změna
 radek č. 4 je opět změna z GitHubu
+radek č. 5 je upraven v branch ukol1
